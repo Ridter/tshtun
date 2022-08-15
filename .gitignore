@@ -1,0 +1,7 @@
+.vscode
+.python-version
+client.c
+server.c
+server
+client
+pty
